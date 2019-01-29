@@ -1,0 +1,17 @@
+[
+    {
+        "id":8,
+        "tournament":"Tripper API",
+        "group":"Naama, Dekel, Yossi, Elad"
+    },
+    {
+        "id":1,
+        "tournament":"Cyber Crawler App",
+        "group":"Aviad, Yoni, Bat-el, Maayan"
+    },
+    {
+        "id":2,
+        "tournament":"Cyber2 Crawler App",
+        "group":"Meir, Yoni, Bat-el, Maayan"
+    }
+]
